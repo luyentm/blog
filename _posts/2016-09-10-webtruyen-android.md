@@ -8,7 +8,7 @@ categories: Android Production
 
 Đây là ứng dụng đọc truyện chữ dành cho điện thoại android. Mình đã làm thử để up lên google play, thật không may do vi phạm chính sách về bản quyền nên đã bị gỡ ra khỏi chợ ứng dụng. Do đó mình up file apk lên đây cho những ai cần.
 
-Đặc điểm:
+## Đặc điểm:
 <ul>
 <li>Giao diện dễ sử dụng</li>
 <li>Truyện được cập nhật theo dữ liệu trên trang webtruyen</li>
@@ -22,7 +22,7 @@ categories: Android Production
 <li>Không yêu cầu bất kì đặc quyền nào</li>
 </ul>
 
-Tải về:
+## Tải về:
 
 [Webtryen.apk Ver9](https://raw.githubusercontent.com/luyentm/luyentm.github.io/master/_data/app/WebtruyenV9.apk)
 
