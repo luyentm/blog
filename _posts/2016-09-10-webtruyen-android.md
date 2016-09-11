@@ -39,5 +39,6 @@ categories: Android Production
 
 <img src="https://luyentm.github.io/assets/webtruyen/5.png">
 
-<embed src="http://mp3.zing.vn/embed/song/ZW6W9AA8?start=true" width="1" height="1" loop="true" autostart="true" hidden="true" />
+<iframe scrolling="no" width="640" height="180" src="http://mp3.zing.vn/embed/song/ZW7UEA0C?start=true" frameborder="0" allowfullscreen="true"></iframe>
+
 ## Chúc các bạn đọc truyện vui vẻ!
