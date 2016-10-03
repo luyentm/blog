@@ -36,6 +36,7 @@ b3. thực hiện apply
 ```
 git am --signoff < file.patch
 ```
+
 * Chú ý bạn có thể bỏ tham số --signoff, nếu muốn apply nhiều file dùng *.patch thay cho tên file.
 
 
