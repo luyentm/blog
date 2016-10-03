@@ -15,24 +15,29 @@ Trong bài này chúng ta cùng học cách tạo patch file nhanh chóng với 
 b1. Commit những thay đổi của bạn muốn đưa vào patch file. Bạn có thể chia ra làm nhiều commit, khi đó mỗi commit sẽ là một patch file.
 
 b2. Command
+
 ```
 git format-patch HEAD~n
 ```
+
 * trong đó n là số commit kể từ commit hiện tại mà bạn muốn tạo patch. Ví dụ: n=7, git sẽ tạo ra 7 file patch, mỗi file tương ứng với một commit kể từ commit hiện tại (HEAD). Đồng thời các file cũng được đánh số 0001-commit-message*.patch
 
 ## Apply patch
 
 b1. Kiểm tra xem patch sẽ thực hiện những thay đổi gì
+
 ```
 git apply --stat file.patch
 ```
 
 b2. Kiểm tra xem file có apply được vô source code hay không
+
 ```
 git apply --check file.patch
 ```
 
-b3. thực hiện apply
+b3. Thực hiện apply
+
 ```
 git am --signoff < file.patch
 ```
