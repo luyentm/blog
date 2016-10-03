@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sử dụng git tạo patch file"
-date:   2016-09-10 18:00:00
+date:   2016-10-03 12:00:00
 categories: git patch 
 ---
 # Sử dụng git tạo patch file
