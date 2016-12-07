@@ -24,7 +24,7 @@ categories: Android Production
 
 ## Tải về:
 
-[Webtruyen.apk](https://raw.githubusercontent.com/luyentm/luyentm.github.io/master/_data/app/WebtruyenV9.apk)
+[Webtruyen.apk](https://github.com/luyentm/luyentm.github.io/files/636064/webtruyen.zip)
 
 
 ## Ảnh preview:
