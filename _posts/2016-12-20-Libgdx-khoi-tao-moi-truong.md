@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[LIBGDX] Lập trình game với LIBGDX"
+title:  "[LIBGDX] Thiết lập môi trường làm việc Libgdx"
 date:   2016-12-20 17:00:07
 categories: LIBGDX
 ---
