@@ -10,4 +10,10 @@ Thật may mắn vì libgdx là open source và đa nền tảng. Do đó, chún
 Tuy nhiên 1 tutorial thì không thể hướng dẫn một lúc trên nhiều IDE hay nhiều hệ điều hành được. Vì vậy, tôi sẽ đưa ra những cài đặt, tùy chỉnh mà bản thân tôi thấy là phù hợp, dễ tiếp cận cũng như phổ biến nhất hiện nay. Nếu bạn cảm thấy không quen thuộc với những cài đặt mà tôi đứng ra, đừng lo, hãy thử theo cách của bạn, mọi thứ đều khá dễ dàng và tương tự nhau.
 
 ## Cài đặt môi trường
-* IDE:
+
+### IDE
+Mình chọn **eclipse** cho tutorial này. Tuy vậy, bạn có thể chọn bất cứ IDE nào có hỗ trợ **Gradle** mà bạn cảm thấy ưa thích. Gradle là một công cụ hỗ trợ phát triển code mới. Bạn sẽ không phí phạm nếu dành ra 1 chút thời gian để đọc qua về nó. Hiện tại, bạn có thể chọn intellij, netbean, eclipse hoặc android studio ...
+
+
+
+* Java: cài đặt SDK, JDK, tốt nhất nên cài từ bản 7 trở lên
