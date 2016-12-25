@@ -43,7 +43,7 @@ Demo:
 
 ## Tạo file script/bat
 
-Dĩ nhiên để cho việc conenct được nhanh chóng chúng ta nên tạo ra 1 file script. Trên windows các bạn nhớ thay đường dẫn của bạn cho chính xác. Trên linux nhớ cài adb hoặc trỏ đúng được dẫn.
+Dĩ nhiên để cho việc connect được nhanh chóng chúng ta nên tạo ra 1 file script. Trên windows các bạn nhớ thay đường dẫn của bạn cho chính xác. Trên linux nhớ cài adb hoặc trỏ đúng đường dẫn.
 
 * Windows
 
@@ -62,5 +62,6 @@ Tạo 1 file: connect.sh
 adb tcpip 5555
 adb connect 10.0.0.9
 ```
+
 
 **Chúc các bạn thành công và giáng sinh vui vẻ ^^**
