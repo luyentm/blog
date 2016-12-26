@@ -14,7 +14,7 @@ Nhiều khi việc debug ứng dụng android mà phải cắm thông qua dây c
 * Disconnect tất cả các devices nếu đã kết nối trước đó:
 
 ```
-adb disconect
+adb disconnect
 ```
 
 * Tạo port lắng nghe cổng 5555
