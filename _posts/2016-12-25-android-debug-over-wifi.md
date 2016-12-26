@@ -10,20 +10,20 @@ Nhiều khi việc debug ứng dụng android mà phải cắm thông qua dây c
 
 ## Cách thực hiện
 
-1. Kết nối điện thoại và máy tính vào chung 1 mạng wifi, từ điện thoại lấy ra địa chỉ IP, ví dụ của mình là **10.0.0.9**
-2. Disconnect tất cả các devices nếu đã kết nối trước đó:
+* Kết nối điện thoại và máy tính vào chung 1 mạng wifi, từ điện thoại lấy ra địa chỉ IP, ví dụ của mình là **10.0.0.9**
+* Disconnect tất cả các devices nếu đã kết nối trước đó:
 
 ```
 adb disconect
 ```
 
-3. Tạo port lắng nghe cổng 5555
+* Tạo port lắng nghe cổng 5555
 
 ```
 adb tcpip 5555
 ```
 
-4. Connect đến thiết bị thông qua IP
+* Connect đến thiết bị thông qua IP
 
 ```
 adb connect 10.0.0.9
@@ -35,7 +35,7 @@ Nếu kết nối thành công sẽ báo
 Connected to 10.0.0.9:5555
 ```
 
-5. Cuối cùng trong eclipse hoặc android studio, bạn phải chọn lại devices để test.
+* Cuối cùng trong eclipse hoặc android studio, bạn phải chọn lại devices để test.
 
 Demo:
 
