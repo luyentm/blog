@@ -14,6 +14,24 @@ Tuy nhiên 1 tutorial thì không thể hướng dẫn một lúc trên nhiều 
 ### IDE
 Mình chọn **eclipse** cho tutorial này. Tuy vậy, bạn có thể chọn bất cứ IDE nào có hỗ trợ **Gradle** mà bạn cảm thấy ưa thích. Gradle là một công cụ hỗ trợ phát triển code mới. Bạn sẽ không phí phạm nếu dành ra 1 chút thời gian để đọc qua về nó. Hiện tại, bạn có thể chọn intellij, netbean, eclipse hoặc android studio ...
 
+### Java: cài đặt JDK, tốt nhất nên cài từ bản 7 trở lên. Ở đây thì mình cứ bản mới nhất là chiến thôi
+[link](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+```
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+```
 
-* Java: cài đặt SDK, JDK, tốt nhất nên cài từ bản 7 trở lên
+### Eclipse
+Bạn có thể cài bất kì bản nào của eclipse. Ở đây mình dùng Neon mới nhất 
+[link](http://www.eclipse.org/neon/)
+
+```
+http://www.eclipse.org/neon/
+```
+
+### Android SDK
+[link](https://dl.google.com/dl/android/studio/ide-zips/2.2.3.0/android-studio-ide-145.3537739-linux.zip)
+
+```
+https://dl.google.com/dl/android/studio/ide-zips/2.2.3.0/android-studio-ide-145.3537739-linux.zip
+```
