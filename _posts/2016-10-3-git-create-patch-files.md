@@ -37,6 +37,7 @@ git apply --check file.patch
 ```
 
 b3. Thực hiện apply
+
 * Thực hiện apply nhưng không tạo thêm commit
 
 ```
