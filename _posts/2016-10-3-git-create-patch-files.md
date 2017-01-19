@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sử dụng git tạo patch file"
+title:  "[GIT]Sử dụng git tạo patch file"
 date:   2016-10-03 12:00:00
 categories: git patch 
 ---
@@ -37,11 +37,25 @@ git apply --check file.patch
 ```
 
 b3. Thực hiện apply
+* Thực hiện apply nhưng không tạo thêm commit
+
+```
+git apply < file.patch
+```
+* Thực hiện apply đồng thời tạo thêm commit
 
 ```
 git am --signoff < file.patch
 ```
+* Thực hiện apply đông thời thêm signoff
 
-* Chú ý bạn có thể bỏ tham số --signoff, nếu muốn apply nhiều file dùng *.patch thay cho tên file.
+```
+git am --signoff < file.patch
+```
+* Thực hiện apply nhiều patch 
 
+```
+git am *.patch
+```
 
+## Thank you for reading.
