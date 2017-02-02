@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ứng dụng đọc truyện trên android miễn phí, không quảng cáo"
+title:  "[App] Ứng dụng đọc truyện trên android miễn phí, không quảng cáo"
 date:   2016-09-10 18:00:00
-categories: Android Production
+categories: Android Application
 ---
 # Ứng dụng đọc truyện trên android
 
