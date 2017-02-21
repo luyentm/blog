@@ -69,5 +69,5 @@ https://dl.google.com/android/repository/tools_r25.2.3-macosx.zip
 
 * Chọn đường link: **http://dist.springsource.com/release/TOOLS/gradle**
 
-* Cài đặt tất cả những gói được list ra
+* Cài đặt tất cả những gói được list ra 
 
