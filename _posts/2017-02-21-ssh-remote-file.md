@@ -2,7 +2,7 @@
 layout: post
 title:  "[SSH] Mount remote directory using SSH"
 date:   2017-02-21 09:09:09
-categories: SSH Linux
+categories: LINUX
 ---
 
 # Sử dụng SSh để mount thư mục từ máy remote
