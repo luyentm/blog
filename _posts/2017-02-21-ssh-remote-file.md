@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[SSH] Mount remote directory using SSH"
-date:   2016-02-21 09:09:09
+date:   2017-02-21 09:09:09
 categories: SSH Linux
 ---
 
