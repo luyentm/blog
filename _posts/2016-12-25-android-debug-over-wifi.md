@@ -2,7 +2,7 @@
 layout: post
 title:  "[Android] Debug ứng dụng android qua Wifi"
 date:   2016-12-25 09:09:09
-categories: Android
+categories: ANDROID
 ---
 # Debug ứng dụng android qua Wifi
 
