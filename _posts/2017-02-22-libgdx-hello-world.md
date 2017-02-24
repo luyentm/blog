@@ -23,12 +23,10 @@ Nào chúng ra cùng bắt đầu.
 
 Đầu tiên chúng ta cần download tool tạo project tạo đây:
 
-```
 [Gdx-setup.jar](https://libgdx.badlogicgames.com/nightlies/dist/gdx-setup.jar)
-```
 Đây là công cụ tạo project chính thức cho libgdx, nó bao gồm một số tùy chọn nhanh khi khởi tạo như thêm các thư viện, đặt đường dẫn android SDK, ...
 
 Khi khởi chạy có giao diện như hình dưới đây:
 
-<img src="">
+<img src="https://luyentm.github.io/assets/libgdx/chapter2/helloworld1.png">
 
