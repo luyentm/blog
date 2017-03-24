@@ -12,5 +12,5 @@ Mail: tranminhluyen.1993@gmail.com
 
 Git : github.com/luyentm
 
-FB  : facebook/luyentm
+FB  : facebook.com/luyentm
 ```
