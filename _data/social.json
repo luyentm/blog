@@ -4,15 +4,15 @@
     "link": "https://www.facebook.com/luyentm"
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
     "icon": "fa-linkedin",
     "link": "https://www.linkedin.com/in/tr%E1%BA%A7n-minh-luy%E1%BB%87n-76512397"
   },
   {
     "icon": "fa-music",
     "link": "https://luyentm.github.io/music/"
-  }
+  },
+  {
+    "icon": "fa-video-camera",
+    "link": "https://luyentm.github.io/xem/"
+  },
 ]
