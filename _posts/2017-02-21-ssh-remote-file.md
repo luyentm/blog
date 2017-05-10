@@ -38,4 +38,10 @@ mkdir remoteDir
 sshfs remoteHostName@192.168.xx.xx:/pathToRemoteDir ~/remoteDir
 ```
 
+* Umount thư mục đã remote
+
+```
+fusermount -u /home/luyentm/remoteDir
+```
+
 **Ok, bây giờ chúng ta có thể chỉnh sửa mọi thứ trong thư mục remoteDir như chỉnh sửa trực tiếp trên server.**
