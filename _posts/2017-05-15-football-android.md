@@ -24,16 +24,15 @@ categories: ANDROID
 
 [tvfootball.zip](https://github.com/luyentm/blog/files/1001670/tvfootball.zip)
 
-
-
-
 ## Ảnh preview:
 
 <img src="https://luyentm.github.io/blog/assets/tvfootball/p1.png">
 
+
 <img src="https://luyentm.github.io/blog/assets/tvfootball/p2.png">
+
 
 <img src="https://luyentm.github.io/blog/assets/tvfootball/p3.png">
 
 
-## Chúc các bạn đọc truyện vui vẻ!
+## Chúc các bạn xem bóng đá vui vẻ ^^!
