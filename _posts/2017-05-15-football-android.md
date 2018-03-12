@@ -26,13 +26,13 @@ categories: ANDROID
 
 ## Ảnh preview:
 
-<img src="https://luyentm.github.io/blog/assets/tvfootball/p1.png">
+<img src="https://luyentm.github.io/assets/tvfootball/p1.png">
 
 
-<img src="https://luyentm.github.io/blog/assets/tvfootball/p2.png">
+<img src="https://luyentm.github.io/assets/tvfootball/p2.png">
 
 
-<img src="https://luyentm.github.io/blog/assets/tvfootball/p3.png">
+<img src="https://luyentm.github.io/assets/tvfootball/p3.png">
 
 
 ## Chúc các bạn xem bóng đá vui vẻ ^^!
