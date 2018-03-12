@@ -1,12 +1,12 @@
 title: Luyen Tran
 description: Luyen's Blog
 author: Luyen Tran
-logo: /blog/static/img/avatar.png
+logo: /static/img/avatar.png
 github: https://github.com/luyentm
 about: Coder
 
 baseurl: ""
-url: "https://luyentm.github.io/blog/"
+url: "https://luyentm.github.io/"
 
 disqus_shortname: luyentm
 google_analytics: UA-98180508-1
