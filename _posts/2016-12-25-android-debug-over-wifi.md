@@ -39,7 +39,7 @@ Connected to 10.0.0.9:5555
 
 Demo:
 
-<img src="https://luyentm.github.io/blog/assets/connectdemo/connectdemo.png">
+<img src="https://luyentm.github.io/assets/connectdemo/connectdemo.png">
 
 ## Tạo file script/bat
 
