@@ -29,15 +29,15 @@ categories: ANDROID
 
 ## Ảnh preview:
 
-<img src="https://luyentm.github.io/blog/assets/webtruyen/1.png">
+<img src="https://luyentm.github.io/assets/webtruyen/1.png">
 
-<img src="https://luyentm.github.io/blog/assets/webtruyen/2.png">
+<img src="https://luyentm.github.io/assets/webtruyen/2.png">
 
-<img src="https://luyentm.github.io/blog/assets/webtruyen/3.png">
+<img src="https://luyentm.github.io/assets/webtruyen/3.png">
 
-<img src="https://luyentm.github.io/blog/assets/webtruyen/4.png">
+<img src="https://luyentm.github.io/assets/webtruyen/4.png">
 
-<img src="https://luyentm.github.io/blog/assets/webtruyen/5.png">
+<img src="https://luyentm.github.io/assets/webtruyen/5.png">
 
 
 ## Chúc các bạn đọc truyện vui vẻ!
