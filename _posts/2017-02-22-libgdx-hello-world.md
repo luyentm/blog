@@ -29,7 +29,7 @@ Nào chúng ra cùng bắt đầu.
 
 Khi khởi chạy có giao diện như hình dưới đây:
 
-<img src="https://luyentm.github.io/blog/assets/libgdx/chapter2/helloworld1.png">
+<img src="https://luyentm.github.io/assets/libgdx/chapter2/helloworld1.png">
 
 - Name: Tên project bạn muốn tạo
 - Package: package nam
