@@ -1,0 +1,14 @@
+pages:
+  image: openjdk:8-jdk
+  stage: deploy
+  script:
+  - chmod +x gradlew
+  - ./gradlew html:dist
+  - mkdir .public
+  - cp -r html/build/dist/* .public
+  - mv .public public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
